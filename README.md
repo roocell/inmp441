@@ -17,6 +17,7 @@ sudo wget https://raw.githubusercontent.com/adafruit/Raspberry-Pi-Installer-Scri
 sudo python3 i2smic.py
 sudo apt-get -y install libportaudio0 libportaudio2 libportaudiocpp0 portaudio19-dev
 sudo pip3 install pyaudio matplotlib scipy
+sudo apt-get install libopenblas-dev
 ```
 
 # dump audio to find hw index
