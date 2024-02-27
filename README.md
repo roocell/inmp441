@@ -1,6 +1,9 @@
 # inmp441
 I2S MEMS Microphone for Raspberry Pi
 
+<img src="IMG_3753.jpg" width="200">
+
+
 # install
 Starting with bullseye on Raspberry Pi Zero W.<BR>
 Follow instructions here: https://makersportal.com/blog/recording-stereo-audio-on-a-raspberry-pi<BR>
